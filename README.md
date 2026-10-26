@@ -3,7 +3,7 @@
 ## Informasi Mahasiswa
 **Nama:** Revita Dwi Enggarta Nurazis
 **NIM:** E41252371
-**Golongan** F
+**Golongan:** F
 **Mata Kuliah:** Standarisasi Coding
 
 ## Deskripsi Proyek
